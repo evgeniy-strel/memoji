@@ -1,0 +1,117 @@
+body {
+	background-color: #CFD0CF;
+	font-family: Arial;
+	color: #434344;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	line-height: 47px;
+	font-size: 42px;
+	padding: 40px 0;
+	margin: 0;
+	text-align: center;
+}
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 auto;
+	width:667px;
+}
+
+.card {
+	width: 130px;
+	height: 130px;
+	border: 5px solid white;
+	border-radius: 9px;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+	position: relative;
+	perspective: 600px;
+	margin-bottom: 25px;
+	cursor: pointer;
+}
+
+.front, .back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: .8s;
+	backface-visibility: hidden;
+}
+
+.front {
+	background: linear-gradient(to right top, #22AB93, #19668D);;
+}
+
+.back {
+	font-size: 50px;
+	line-height: 50px;
+	background: white;
+	transform: rotateY(180deg);
+}
+
+.timer {
+	text-align: center;
+	line-height: 36px;
+	font-size: 32px;
+	margin-top: 5px;
+	font-weight: bold;
+}
+
+.result {
+	width: 350px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #fff;
+	font-weight: bold;
+	text-align: center;
+	display: none;
+	transition: .5s;
+}
+
+.result_title {
+	margin-top: 30px;
+	font-size: 48px;
+	margin-bottom: 48px;
+}
+
+.restart_game {
+	display: inline-block;
+	background: linear-gradient(to left, #22AB93, #19668D);
+	font-size: 20px;
+	line-height: 20px;
+	padding: 10px 30px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.5);
+	color: #fff;
+	cursor: pointer;
+	margin-bottom: 30px;
+}
+
+.restart_game:active {
+	box-shadow: inset 2px 1px 8px rgba(0,0,0,.5);
+}
+
+.blackout {
+	width: 100%;
+	height: 100vh;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+	background: rgba(0,0,0,.5);
+}
