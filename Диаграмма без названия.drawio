@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T19:00:06.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qI6SmG47E99qForLaRsD" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T19:00:15.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="R7N9GPMW_vRdr8vEVkVX" version="22.0.8" type="github">
   <diagram name="Страница 1" id="uUNT8eQwbnTHM8UVTARZ">
     <mxGraphModel dx="989" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1000,13 +1000,13 @@
             <mxPoint x="3246" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zs_fDtwDhPdnNZSnasrj-165" value="" style="endArrow=none;html=1;rounded=0;entryX=0.044;entryY=0.314;entryDx=0;entryDy=0;exitX=0.995;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="Zs_fDtwDhPdnNZSnasrj-90" target="Zs_fDtwDhPdnNZSnasrj-127">
+        <mxCell id="Zs_fDtwDhPdnNZSnasrj-165" value="" style="endArrow=none;html=1;rounded=0;entryX=0.044;entryY=0.314;entryDx=0;entryDy=0;exitX=0.995;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Zs_fDtwDhPdnNZSnasrj-90" target="Zs_fDtwDhPdnNZSnasrj-127">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3095" y="405" as="sourcePoint" />
             <mxPoint x="3220" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zs_fDtwDhPdnNZSnasrj-166" value="" style="endArrow=none;html=1;rounded=0;entryX=0.017;entryY=0.377;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zs_fDtwDhPdnNZSnasrj-127" target="Zs_fDtwDhPdnNZSnasrj-139">
+        <mxCell id="Zs_fDtwDhPdnNZSnasrj-166" value="" style="endArrow=none;html=1;rounded=0;entryX=0.017;entryY=0.377;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Zs_fDtwDhPdnNZSnasrj-127" target="Zs_fDtwDhPdnNZSnasrj-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3295" y="580" as="sourcePoint" />
             <mxPoint x="3420" y="710" as="targetPoint" />
