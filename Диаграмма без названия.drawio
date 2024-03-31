@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T18:56:08.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fw1XrC-rcuV_kIuRu1gv" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T18:57:18.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="STzYyp8Xx9MUgXX1n87f" version="24.0.2" type="github">
   <diagram name="Страница 1" id="uUNT8eQwbnTHM8UVTARZ">
-    <mxGraphModel dx="1247" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1977,9 +1977,13 @@
         <mxCell id="cr4JHJG9BJnYQw8IkTXx-46" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6610" y="948" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cr4JHJG9BJnYQw8IkTXx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cr4JHJG9BJnYQw8IkTXx-44">
+        <mxCell id="cr4JHJG9BJnYQw8IkTXx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.425;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cr4JHJG9BJnYQw8IkTXx-44" target="cr4JHJG9BJnYQw8IkTXx-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6730" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6730" y="1040" />
+              <mxPoint x="6730" y="1040" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cr4JHJG9BJnYQw8IkTXx-56" value="добавление" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1999,6 +2003,9 @@
         </mxCell>
         <mxCell id="cr4JHJG9BJnYQw8IkTXx-61" value="drag n drop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6750" y="1330" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cr4JHJG9BJnYQw8IkTXx-62" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6730" y="1038" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
