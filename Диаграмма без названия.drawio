@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T19:02:54.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2jeJaaQK_XrbdLYbEADx" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T19:11:49.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OxPTXpP_Npaw_IsY_zrZ" version="24.2.5" type="github">
   <diagram name="Страница 1" id="uUNT8eQwbnTHM8UVTARZ">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#111416" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#111416" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2106,13 +2106,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eCeAgT6Mp_GYboTKnuwp-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5C94FB;" vertex="1" parent="1">
-          <mxGeometry x="8250" y="787.5" width="140" height="110.75" as="geometry" />
+          <mxGeometry x="8250" y="787.5" width="140" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="eCeAgT6Mp_GYboTKnuwp-37" value="loadDataMethod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="8250" y="787.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eCeAgT6Mp_GYboTKnuwp-38" value="SbisService&lt;div&gt;Object&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="8275" y="825" width="90" height="40" as="geometry" />
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-39" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Instance of&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;SbisService&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8270" y="821.5" width="100" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5C94FB;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8520" y="920" as="targetPoint" />
+            <mxPoint x="8370" y="837.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8470" y="920" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-42" value="SbisService" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="8470" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-43" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;endPoint&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8480" y="952.25" width="100" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-44" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;keyProperty&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8480" y="1000" width="100" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eCeAgT6Mp_GYboTKnuwp-45" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;adapter&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8480" y="1047.5" width="100" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
