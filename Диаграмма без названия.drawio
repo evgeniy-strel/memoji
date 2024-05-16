@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T15:28:22.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YhmhnFq7eXl2vfLpcv15" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T15:56:18.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="J-t5Acmm7NPa6n1GQEKK" version="24.4.0" type="github">
   <diagram name="Страница 1" id="uUNT8eQwbnTHM8UVTARZ">
-    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2763,10 +2763,10 @@
         <mxCell id="Q6rGysPbu_JG3iTHli8K-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q6rGysPbu_JG3iTHli8K-5" target="Q6rGysPbu_JG3iTHli8K-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q6rGysPbu_JG3iTHli8K-5" value="по ссылке" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Q6rGysPbu_JG3iTHli8K-5" value="по ссылке" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
           <mxGeometry x="11625" y="1433" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Q6rGysPbu_JG3iTHli8K-9" value="конфигурация приложений&lt;br&gt;(набор из продуктов)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Q6rGysPbu_JG3iTHli8K-9" value="конфигурация приложений&lt;br&gt;(набор из продуктов)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="11760" y="1428" width="170" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Q6rGysPbu_JG3iTHli8K-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q6rGysPbu_JG3iTHli8K-10">
@@ -2802,13 +2802,13 @@
         <mxCell id="Q6rGysPbu_JG3iTHli8K-14" value="посещаемость страниц" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="11602" y="1580" width="125" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Q6rGysPbu_JG3iTHli8K-15" value="анализ и запись действий клиентов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Q6rGysPbu_JG3iTHli8K-15" value="анализ и запись действий клиентов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="11782.5" y="1582" width="125" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Q6rGysPbu_JG3iTHli8K-16" value="статистика по регионам" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="11520" y="1640" width="125" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Q6rGysPbu_JG3iTHli8K-17" value="активные клиенты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Q6rGysPbu_JG3iTHli8K-17" value="активные клиенты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="11700" y="1639" width="125" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Q6rGysPbu_JG3iTHli8K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.545;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q6rGysPbu_JG3iTHli8K-10" target="Q6rGysPbu_JG3iTHli8K-14">
